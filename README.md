@@ -1,5 +1,15 @@
 # party-watching-stream (PWS)
 
+Сервис для совместного просмотра видео.
+
+## Исходники
+
+[backend](https://github.com/party-watching-stream/pws-backend)
+
+[frontend](https://github.com/party-watching-stream/pws-frontend)
+
+## Документация
+
 [miro.com](https://miro.com/app/board/o9J_lQlOopE=/)
 
 [trello](https://trello.com/b/sGXKb12a/tarasov-tp-project)
