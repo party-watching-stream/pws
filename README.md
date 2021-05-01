@@ -4,9 +4,9 @@
 
 ## Исходники
 
-[backend](https://github.com/party-watching-stream/partyrts-backend)
+[backend](https://github.com/party-watching-stream/pws-backend)
 
-[frontend](https://github.com/party-watching-stream/partyrts-frontend)
+[frontend](https://github.com/party-watching-stream/pws-frontend)
 
 ## Документация
 
