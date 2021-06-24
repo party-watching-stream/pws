@@ -20,3 +20,6 @@
 
 
 [Презентация](https://vk.com/away.php?utf=1&to=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2F1ptOAHm05zT6SXS7-zkpYqp7awjQMFfTQVhWbOl-VsKM%2Fedit%3Fusp%3Dsharing)
+
+
+[Отсчет](https://github.com/party-watching-stream/pws/blob/main/docs/%D0%9E%D1%82%D1%81%D1%87%D0%B5%D1%82.txt)
