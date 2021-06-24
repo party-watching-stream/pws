@@ -23,4 +23,4 @@
 
 [Демо](https://drive.google.com/drive/folders/1b1_D956YvAQLzqiXvLl1fxgaKLe_bo4K?usp=sharing)
 
-[Отсчет](https://github.com/party-watching-stream/pws/blob/main/docs/%D0%9E%D1%82%D1%81%D1%87%D0%B5%D1%82.txt)
+[Отчет](https://github.com/party-watching-stream/pws/blob/main/docs/%D0%9E%D1%82%D1%81%D1%87%D0%B5%D1%82.txt)
